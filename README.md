@@ -4,7 +4,7 @@ A team project for managing fuel sales and operations
 # Main Backend
 -- Samuel please write here about the backend --
 # Frontend
--- Yasan please write here about the backend --
+-- Yasan please write here about the frontend --
 
 # Admin Panel And Basic Reports with DJANGO
 🦾This project is built on top of django.
